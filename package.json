@@ -1,0 +1,11 @@
+{
+  "name": "bio-site-demos",
+  "version": "1.0.0",
+  "description": "Link-in-Bio demo sites for different audiences",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+} 
